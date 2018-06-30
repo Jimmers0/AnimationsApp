@@ -10,6 +10,7 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+  var startAppBanner: STABannerView?
   @IBOutlet weak var dismissButton: UIButton!
   @IBOutlet weak var imgView: UIImageView!
   @IBOutlet weak var trailingConstraint: NSLayoutConstraint!
@@ -20,6 +21,7 @@ class SecondViewController: UIViewController {
     dismiss(animated: true, completion: nil)
     
   }
+  
   override func viewDidLoad() {
     super.viewDidLoad()
     
@@ -33,6 +35,14 @@ class SecondViewController: UIViewController {
       dismissButton.isHidden = true
     }
 
+  }
+  
+  override func viewDidAppear(_ animated: Bool) {
+    super.viewDidAppear(animated)
+    if (startAppBanner == nil) {
+      startAppBanner = STABannerView(size: STA_AutoAdSize, autoOrigin: STAAdOrigin_Bottom, with: self.view, withDelegate: nil);
+      self.view.addSubview(startAppBanner!)
+    }
   }
   
   @objc func handleTap(recognizer: UITapGestureRecognizer) {

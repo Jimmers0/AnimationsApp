@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     sdk.appID = "205937518"
     sdk.devID = "182270523"
     
-    sdk.showSplashAd()
+   // sdk.showSplashAd()
     
     return true
     // Override point for customization after application launch.
