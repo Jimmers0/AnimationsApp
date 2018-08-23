@@ -31,6 +31,79 @@
 		9D451208209C420A002A0B50 /* CustomNavigationAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D451207209C420A002A0B50 /* CustomNavigationAnimator.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		9D2F4BE020E7956200DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2CD7EADD035A7C18D898A80964274618;
+			remoteInfo = GoogleToolboxForMac;
+		};
+		9D2F4BE220E7956200DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F7C0A3C3E97317C6451DACAC2291BDE2;
+			remoteInfo = "mopub-ios-sdk";
+		};
+		9D2F4BE420E7956200DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D48DACC000091F77587013497F86E658;
+			remoteInfo = nanopb;
+		};
+		9D2F4BE620E7956200DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6EFDC9623C53F21BEFF3E403B6F05E04;
+			remoteInfo = "Pods-AnimationsApp";
+		};
+		9D2F4BE820E7956200DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0DEAF9AF9D2453D7CBE9CFEC9EB860E7;
+			remoteInfo = "StartAppSDK-StartAppSDK";
+		};
+		9D2F4BF220E7956400DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2CD7EADD035A7C18D898A80964274618;
+			remoteInfo = GoogleToolboxForMac;
+		};
+		9D2F4BF420E7956400DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F7C0A3C3E97317C6451DACAC2291BDE2;
+			remoteInfo = "mopub-ios-sdk";
+		};
+		9D2F4BF620E7956400DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D48DACC000091F77587013497F86E658;
+			remoteInfo = nanopb;
+		};
+		9D2F4BF820E7956400DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6EFDC9623C53F21BEFF3E403B6F05E04;
+			remoteInfo = "Pods-AnimationsApp";
+		};
+		9D2F4BFA20E7956400DAED0D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0DEAF9AF9D2453D7CBE9CFEC9EB860E7;
+			remoteInfo = "StartAppSDK-StartAppSDK";
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		7074B11212B31A80A54CCC9C /* Pods-AnimationsApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnimationsApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-AnimationsApp/Pods-AnimationsApp.release.xcconfig"; sourceTree = "<group>"; };
 		8FD77E8D5F3BA3EDFAAEEAD4 /* Pods_AnimationsApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnimationsApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -45,6 +118,8 @@
 		9D2F4BD320E78DE100DAED0D /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		9D2F4BD520E78E1D00DAED0D /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		9D2F4BD720E78E7700DAED0D /* AnimationsApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AnimationsApp-Bridging-Header.h"; sourceTree = "<group>"; };
+		9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Pods.xcodeproj; path = Pods/Pods.xcodeproj; sourceTree = SOURCE_ROOT; };
+		9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Pods.xcodeproj; path = Pods/Pods.xcodeproj; sourceTree = "<group>"; };
 		9D4511E020986D91002A0B50 /* AnimationsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D4511E320986D91002A0B50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D4511E520986D91002A0B50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -92,6 +167,30 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		9D2F4BD920E7956200DAED0D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9D2F4BE120E7956200DAED0D /* GoogleToolboxForMac.framework */,
+				9D2F4BE320E7956200DAED0D /* MoPub.framework */,
+				9D2F4BE520E7956200DAED0D /* nanopb.framework */,
+				9D2F4BE720E7956200DAED0D /* Pods_AnimationsApp.framework */,
+				9D2F4BE920E7956200DAED0D /* StartAppSDK.bundle */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9D2F4BEB20E7956400DAED0D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9D2F4BF320E7956400DAED0D /* GoogleToolboxForMac.framework */,
+				9D2F4BF520E7956400DAED0D /* MoPub.framework */,
+				9D2F4BF720E7956400DAED0D /* nanopb.framework */,
+				9D2F4BF920E7956400DAED0D /* Pods_AnimationsApp.framework */,
+				9D2F4BFB20E7956400DAED0D /* StartAppSDK.bundle */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		9D4511D720986D91002A0B50 = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +198,7 @@
 				9D4511E120986D91002A0B50 /* Products */,
 				3FF189F65C44E53C506F3C19 /* Pods */,
 				DCCC4CCD4AFEE2A46CBB0785 /* Frameworks */,
+				9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +223,7 @@
 				9D4511F720986F2A002A0B50 /* helloworld.jpg */,
 				9D4511EF20986D91002A0B50 /* Info.plist */,
 				9D2F4BD720E78E7700DAED0D /* AnimationsApp-Bridging-Header.h */,
+				9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */,
 			);
 			path = AnimationsApp;
 			sourceTree = "<group>";
@@ -214,12 +315,95 @@
 			mainGroup = 9D4511D720986D91002A0B50;
 			productRefGroup = 9D4511E120986D91002A0B50 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 9D2F4BD920E7956200DAED0D /* Products */;
+					ProjectRef = 9D2F4BD820E7956200DAED0D /* Pods.xcodeproj */;
+				},
+				{
+					ProductGroup = 9D2F4BEB20E7956400DAED0D /* Products */;
+					ProjectRef = 9D2F4BEA20E7956400DAED0D /* Pods.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				9D4511DF20986D91002A0B50 /* AnimationsApp */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		9D2F4BE120E7956200DAED0D /* GoogleToolboxForMac.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = GoogleToolboxForMac.framework;
+			remoteRef = 9D2F4BE020E7956200DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BE320E7956200DAED0D /* MoPub.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = MoPub.framework;
+			remoteRef = 9D2F4BE220E7956200DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BE520E7956200DAED0D /* nanopb.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = nanopb.framework;
+			remoteRef = 9D2F4BE420E7956200DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BE720E7956200DAED0D /* Pods_AnimationsApp.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Pods_AnimationsApp.framework;
+			remoteRef = 9D2F4BE620E7956200DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BE920E7956200DAED0D /* StartAppSDK.bundle */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = StartAppSDK.bundle;
+			remoteRef = 9D2F4BE820E7956200DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BF320E7956400DAED0D /* GoogleToolboxForMac.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = GoogleToolboxForMac.framework;
+			remoteRef = 9D2F4BF220E7956400DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BF520E7956400DAED0D /* MoPub.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = MoPub.framework;
+			remoteRef = 9D2F4BF420E7956400DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BF720E7956400DAED0D /* nanopb.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = nanopb.framework;
+			remoteRef = 9D2F4BF620E7956400DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BF920E7956400DAED0D /* Pods_AnimationsApp.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Pods_AnimationsApp.framework;
+			remoteRef = 9D2F4BF820E7956400DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		9D2F4BFB20E7956400DAED0D /* StartAppSDK.bundle */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = StartAppSDK.bundle;
+			remoteRef = 9D2F4BFA20E7956400DAED0D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		9D4511DE20986D91002A0B50 /* Resources */ = {
